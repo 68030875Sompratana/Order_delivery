@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33502443/README.md)
-
 # คำอธิบายข้อมูล (Data Description)
 
 โฟลเดอร์นี้อธิบายข้อมูลที่ใช้ในโครงงาน **Order_delivery**
